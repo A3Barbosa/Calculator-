@@ -1,0 +1,35 @@
+*{
+ box-sizing: border-box;
+}
+
+body{
+background-image: url(..//images/pencils.jpeg);
+}
+
+
+h1{
+text-align: center;
+}
+
+.main{
+height: 600px;
+width:30%;
+border: 1px solid black;
+margin-left:34%;
+background:rgb(131, 120, 120);
+border-radius: 10% / 50%;
+}
+
+.bars{
+  margin-top:30%;
+  margin-left:14%;
+}
+
+.bttns{
+margin-top: 20%;
+margin-left:35%;
+}
+
+h2{
+  text-align:center;
+}
